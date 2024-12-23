@@ -13,7 +13,8 @@ AddOns and Tools for world of warcraft
 ![图](images/tdAuction_1.jpg) ![图](images/tdAuction_2.jpg)
 
 ## tdBag2 - 整合背包
-[下载](https://github.com/DengSir/tdBag2/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdBag2?label=Github下载)](https://github.com/DengSir/tdBag2/releases)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/349175?label=Curse下载)](https://www.curseforge.com/wow/addons/tdbag2)
 
 ![图](images/tdBag2_1.jpg)
 
