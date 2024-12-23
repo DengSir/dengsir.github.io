@@ -37,7 +37,7 @@ AddOns and Tools for world of warcraft
 ## tdTip
 [![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdTip?label=Github下载)](https://github.com/DengSir/tdTip/releases)
 
-## tdPenetratingCold - 刺骨自动换队
+## tdPenetratingCold - 刺骨换队
 [![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdPenetratingCold?label=Github下载)](https://github.com/DengSir/tdPenetratingCold/releases)
 
 
