@@ -35,9 +35,10 @@ AddOns and Tools for world of warcraft
 # 未发布插件
 
 ## tdTip
+[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdTip?label=Github下载)](https://github.com/DengSir/tdTip/releases)
 
 ## tdPenetratingCold - 刺骨自动换队
-[下载](https://github.com/DengSir/tdPenetratingCold/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdPenetratingCold?label=Github下载)](https://github.com/DengSir/tdPenetratingCold/releases)
 
 
 # DPS模拟器
