@@ -11,5 +11,7 @@
 [下载](https://github.com/DengSir/tdDevTools/releases)
 # 未发布插件
 ## tdTip
+## tdPenetratingCold - 刺骨自动换队
+[下载](https://github.com/DengSir/tdPenetratingCold/releases)
 # DPS模拟器
 [巫妖王之怒](https://dengsir.github.io/wotlk)
