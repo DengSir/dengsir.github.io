@@ -34,7 +34,7 @@ AddOns and Tools for world of warcraft
 
 # 未发布插件
 
-## tdTip
+## tdTip - 鼠标提示
 [![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdTip?label=Github下载)](https://github.com/DengSir/tdTip/releases)
 
 ## tdPenetratingCold - 刺骨换队
