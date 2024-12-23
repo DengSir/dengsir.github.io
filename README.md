@@ -43,4 +43,4 @@ AddOns and Tools for world of warcraft
 
 # DPS模拟器
 
-- [巫妖王之怒](https://dengsir.github.io/wotlk)
+[巫妖王之怒](https://dengsir.github.io/wotlk)
