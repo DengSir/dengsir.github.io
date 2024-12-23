@@ -10,7 +10,8 @@ AddOns and Tools for world of warcraft
 ---
 
 ## tdAuction - 拍卖行
-[下载](https://github.com/DengSir/tdAuction/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdAuction?label=Github下载)](https://github.com/DengSir/tdAuction/releases)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/442222?label=Curse下载)](https://www.curseforge.com/wow/addons/tdauction)
 
 ![图](images/tdAuction_1.jpg) ![图](images/tdAuction_2.jpg)
 ---
@@ -23,7 +24,8 @@ AddOns and Tools for world of warcraft
 ---
 
 ## tdPack2 - 背包整理
-[下载](https://github.com/DengSir/tdPack2/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdPack2?label=Github下载)](https://github.com/DengSir/tdPack2/releases)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/340110?label=Curse下载)](https://www.curseforge.com/wow/addons/tdpack2)
 
 ![图](images/tdPack2_1.gif)
 ---
