@@ -37,10 +37,6 @@ AddOns and Tools for world of warcraft
 ## tdTip - 鼠标提示
 [![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdTip?label=Github下载)](https://github.com/DengSir/tdTip/releases)
 
-## tdPenetratingCold - 刺骨换队
-[![GitHub Release](https://img.shields.io/github/v/release/DengSir/tdPenetratingCold?label=Github下载)](https://github.com/DengSir/tdPenetratingCold/releases)
-
-
 # DPS模拟器
 
 [巫妖王之怒](https://dengsir.github.io/wotlk)
